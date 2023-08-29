@@ -19,3 +19,11 @@ Furthermore, make sure that the libraries used are avilable on your machine.
 
 Provided everything mentioned above is installed on your machine, if you run everything on the MLBD.ipynb you should obtain the same results presented in the paper.
 Don't forget to modify /PATH/ for saving/loading the model and adding the data files (clean_data.csv and noisy_data.csv) to your Jupyter Notebook directory.
+
+To test the model performance on lab measured data, you can use the data provided in the folder Lab_Data. The lab measurement was performed using the technique Nonlinear Photoconductive Sampling [1].
+
+
+
+
+
+[1] https://www.nature.com/articles/s41467-019-14268-x
