@@ -21,6 +21,9 @@ Provided everything mentioned above is installed on your machine, if you run eve
 Don't forget to modify /PATH/ for saving/loading the model and adding the data files (clean_data.csv and noisy_data.csv) to your Jupyter Notebook directory.
 
 To test the model performance on lab measured data, you can use the data provided in the folder Lab_Data. The lab measurement was performed using the technique Nonlinear Photoconductive Sampling [1].
+- (noisy_white_light_measurement_NPS_time.txt) provides the time axis (x-axis) of the measurement
+- (noisy_white_light_measurement_NPS.txt) provides the waveform amplitude (y-axis) of the measurement
+- (pred_white_light_measurement_NPS.txt) is the model prediction of the same waveform
 
 
 
